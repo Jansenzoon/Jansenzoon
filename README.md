@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jansenzoon
+- 👀 I’m interested in natural language processing and information retrieval (legal text mining and legal information retrieval in particular)
+- 🌱 I’m currently learning spaCy and PySpark
+- 💞️ I’m looking to collaborate on legal text mining and legal information retrieval in particular
+- 📫 I can be reached through https://www.linkedin.com/in/romjansen
