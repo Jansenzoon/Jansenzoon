@@ -2,3 +2,4 @@
 - 👀 I’m interested in natural language processing (NLP) and information retrieval in the legal domain
 - 🌱 I’m currently learning spaCy and PySpark
 - 📫 I can be reached through https://www.linkedin.com/in/romjansen
+- 🤗 I'm also on Hugging Face https://huggingface.co/romjansen
