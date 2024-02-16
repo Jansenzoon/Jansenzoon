@@ -12,7 +12,7 @@ As the legal domain is largely text-based, my interests naturally gravitate towa
 - Text mining.
 
 #### 📫 Connect
-Let's connect if you share my interests. Most of my contact details can be find below.
+Let's connect if you share my interests. Most of my contact details can be found below.
 
 ***
 
