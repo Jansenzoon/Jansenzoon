@@ -24,9 +24,5 @@ Let's connect if you share my interests. Most of my contact details can be find 
 	&nbsp;&nbsp;
 	<a href="https://huggingface.co/romjansen"><img src="https://img.shields.io/badge/HuggingFace--_.svg?label=%F0%9F%A4%97%20Hugging%20Face&style=social" alt="Check my work on Hugging Face"></a>
 	&nbsp;&nbsp;
-	<a href="https://www.researchgate.net/lab/Maastricht-Law-Tech-Lab-Gijs-van-Dijck"><img src="https://img.shields.io/badge/ResearchGate--_.svg?label=Research%20Gate&style=social&logo=researchgate" alt="Check our work on Research Gate"></a>
-	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab"><img src="https://img.shields.io/badge/website--_.svg?label?label=Website&style=social&logo=qiskit" alt="Learn more"></a>
-	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="mailto:law-techlab@maastrichtuniversity.nl"><img src="https://img.shields.io/badge/email--_.svg?label?label=Email&style=social&logo=minutemailer" alt="Email us"></a>
+	<a href="mailto:romjansen@outlook.com"><img src="https://img.shields.io/badge/email--_.svg?label?label=Email&style=social&logo=minutemailer" alt="Email me"></a>
 </div>
