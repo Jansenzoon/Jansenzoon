@@ -18,9 +18,9 @@ Let's connect if you share my interests. Most of my contact details can be found
 
 <!-- Social buttons -->
 <div align="left">
-  <a href="https://github.com/romjansen"><img src="https://img.shields.io/github/followers/romjansen?label=GitHub&style=social" alt="Follow me on GitHub"></a>
+  	<a href="https://github.com/romjansen"><img src="https://img.shields.io/github/followers/romjansen?label=GitHub&style=social" alt="Follow me on GitHub"></a>
 	&nbsp;&nbsp;
-	<a href="https://linkedin/in/romjansen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?label?label=LinkedIn&style=social&logo=linkedin" alt="Connect with me on LinkedIn"></a>
+	<a href="https://linkedin.com/in/romjansen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?label?label=LinkedIn&style=social&logo=linkedin" alt="Connect with me on LinkedIn"></a>
 	&nbsp;&nbsp;
 	<a href="https://huggingface.co/romjansen"><img src="https://img.shields.io/badge/HuggingFace--_.svg?label=%F0%9F%A4%97%20Hugging%20Face&style=social" alt="Check my work on Hugging Face"></a>
 	&nbsp;&nbsp;
