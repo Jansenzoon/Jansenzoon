@@ -2,7 +2,7 @@
 "For the rational study of the law the blackletter man may be the man of the present, but the man of the future is the man of statistics." — Oliver Wendell Holmes Jr, "The Path of the Law", Harvard Law Review, 10: 457–478 (1897)
 
 #### 🌱 About
-I'm Rens Jansen, a legal engineer at [Deloitte Tax & Legal](https://www2.deloitte.com/nl/nl/services/legal.html). During my studies I've developed an interest in how legal services can be improved with the help of technology (i.e. legal tech). This interest has led me to align my career and self-development with a multidisciplinary focus on data science in the legal industry. As such, my current focus is on developing the future of pan-European legal research at [Moonlit](https://www.moonlit.ai/). 
+I'm Rens Jansen, a legal engineer at [Deloitte Tax & Legal](https://www2.deloitte.com/nl/nl/services/legal.html). During my studies I've developed an interest in how legal services can be improved with the help of technology (i.e. legal tech). This interest has led me to align my career and self-development with a multidisciplinary focus on data science in the legal industry. As such, my current focus is on developing pan-European legal research solutions at [Moonlit](https://www.moonlit.ai/). 
 
 #### 👀 Interests
 As the legal domain is largely text-based, my interests naturally gravitate towards:
