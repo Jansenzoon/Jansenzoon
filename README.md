@@ -8,10 +8,15 @@ I'm Rens Jansen, a legal engineer at [Deloitte Tax & Legal](https://www2.deloitt
 As the legal domain is largely text-based, my interests naturally gravitate towards:
 - Natural language processing (NLP);
 - Information retrieval (IR);
+- Text mining.
+
+More specifically, I'm also interested in:
+- Network analysis;
+- Large-scale multi-label text classification (LMTC);
 - Domain adaptation of large language models (LLMs);
   - Transfer learning in domain-specific areas, such as the legal domain, suffers from a word distribution shift when comparing between general and domain-specific corpora. 
   - This challenge of lacking performance is further exacerbated by tokenizers which incorrectly tokenize domain-specific terminology ([source](https://www.linkedin.com/posts/bommarito_not-all-tokens-are-created-equal-not-all-activity-7163537080109809664-ZRUp)).
-- Text mining.
+
 
 #### 📫 Connect
 Let's connect if you share my interests. Most of my contact details can be found below.
