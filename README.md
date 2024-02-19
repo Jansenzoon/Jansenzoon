@@ -9,6 +9,8 @@ As the legal domain is largely text-based, my interests naturally gravitate towa
 - Natural language processing (NLP);
 - Information retrieval (IR);
 - Domain adaptation of large language models (LLMs);
+  - Transfer learning in domain-specific areas, such as the legal domain, suffers from a word distribution shift when comparing between general and domain-specific corpora. 
+  - This challenge of lacking performance is further exacerbated by tokenizers which incorrectly tokenize domain-specific terminology ([source](https://www.linkedin.com/posts/bommarito_not-all-tokens-are-created-equal-not-all-activity-7163537080109809664-ZRUp)).
 - Text mining.
 
 #### 📫 Connect
