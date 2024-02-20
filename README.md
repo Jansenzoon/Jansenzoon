@@ -16,6 +16,7 @@ More specifically, I'm interested in:
 - Domain adaptation of large language models (LLMs);
   - Transfer learning in domain-specific areas, such as the legal domain, suffers from a word distribution shift when comparing between general and domain-specific corpora. 
   - This challenge of lacking performance is further exacerbated by tokenizers which incorrectly tokenize domain-specific terminology ([source](https://www.linkedin.com/posts/bommarito_not-all-tokens-are-created-equal-not-all-activity-7163537080109809664-ZRUp)).
+  - The aforementioned is especially problematic in low-resource languages.
 
 #### 🔎 Explore
 In connection to my interest I'm currently exploring the following projects/libraries:
