@@ -7,10 +7,10 @@ I'm Rens Jansen, a legal engineer at [Deloitte Tax & Legal](https://www2.deloitt
 #### 👀 Interests
 As the legal domain is largely text-based, my interests naturally gravitate towards:
 - Natural language processing (NLP);
-- Information retrieval (IR);
-- Text mining.
+- Information retrieval (IR).
 
-More specifically, I'm also interested in:
+More specifically, I'm interested in:
+- Text mining;
 - Network analysis;
 - Large-scale multi-label text classification (LMTC);
 - Domain adaptation of large language models (LLMs);
