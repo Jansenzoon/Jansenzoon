@@ -17,6 +17,11 @@ More specifically, I'm interested in:
   - Transfer learning in domain-specific areas, such as the legal domain, suffers from a word distribution shift when comparing between general and domain-specific corpora. 
   - This challenge of lacking performance is further exacerbated by tokenizers which incorrectly tokenize domain-specific terminology ([source](https://www.linkedin.com/posts/bommarito_not-all-tokens-are-created-equal-not-all-activity-7163537080109809664-ZRUp)).
 
+#### 🔎 Explore
+In connection to my interest I'm currently exploring the following projects/libraries:
+- LiDO's [LinkeXtractor](https://gitlab.com/koop/ld/lx/linkextractor)
+- ICLR&D's [Blackstone](https://github.com/ICLRandD/Blackstone) / Addleshaw Goddard's [Blackstone Web API](https://github.com/Addleshaw-Goddard/Blackstone-Web-API)
+- [CiteURL](https://github.com/raindrum/citeurl)
 
 #### 📫 Connect
 Let's connect if you share my interests. Most of my contact details can be found below.
